@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on rishiqing
-- 🌱 I’m currently learning typeScript、Rxjs、RxDB、Vue3.0、NodeJs...
+- 🌱 I’m currently learning TypeScript、Rxjs、RxDB、Vue3.0、NodeJs...
 - 💬 Ask me about I don't want to be the front end of the cutaway（不想只做个切图仔）
 - 📫 How to reach me: https://www.theshy98.top
 - 😄 Pronouns: QiLe(其乐)
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23142027?style=for-the-badge&logo=prettier)
 
-### Follow Github
+### Github
 ![](https://github-readme-stats.vercel.app/api?username=Bourne115&show_icons=true&theme=tokyonight)
 
 ### Contact me
