@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Rishiqing](https://www.rishiqing.com)
 - 🌱 I’m currently learning TypeScript、Rxjs、RxDB、Vue3.0、NodeJs...
-- 💬 Ask me about I don't want to be the front end of the cutaway（不想只做个切图仔）
+- 💬 Ask me about I don't want to be the front end of the cutaway
 - 📫 How to reach me: https://www.theshy98.top
 - 😄 Pronouns: QiLe(其乐)
 - ⚡ Fun fact: sing、jump、code、basketball（BGM: chicken too beautiful）
