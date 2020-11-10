@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on rishiqing
+- 🔭 I’m currently working on [Rishiqing](https://www.rishiqing.com)
 - 🌱 I’m currently learning TypeScript、Rxjs、RxDB、Vue3.0、NodeJs...
 - 💬 Ask me about I don't want to be the front end of the cutaway（不想只做个切图仔）
 - 📫 How to reach me: https://www.theshy98.top
