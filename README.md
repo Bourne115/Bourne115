@@ -2,7 +2,8 @@
 
 <!--
 **Bourne115/Bourne115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Github
+![](https://github-readme-stats.vercel.app/api?username=Bourne115&show_icons=true&theme=tokyonight)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -35,9 +36,6 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-%232081e8?style=for-the-badge&logo=docker&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23142027?style=for-the-badge&logo=prettier)
-
-### Github
-![](https://github-readme-stats.vercel.app/api?username=Bourne115&show_icons=true&theme=tokyonight)
 
 ### Contact me
 - email：cc15227443755@gmail.com
