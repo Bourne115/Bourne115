@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
 ### Contact me
 - email：cc15227443755@gmail.com
-- blog：https://www.theshy98.top
+- blog：https://www.qile95.top
