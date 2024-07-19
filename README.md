@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ### Contact me
 - email：cc15227443755@gmail.com
-- blog：https://www.qile95.top
+- blog：https://github.com/Bourne115/Bourne115.github.io
